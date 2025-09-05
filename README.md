@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hong!
-- 💻 I'm currently an BCS student at Dalhousie University
-- 🌱 My current focus is on surrogate model and min-max optimization
+- 💻 I'm currently a BCS student at Dalhousie University
+- 🌱 My current focus is on `surrogate model` and `min-max optimization`
 - 📫 Let's connect and collaborate on projects!
 
 <!---
