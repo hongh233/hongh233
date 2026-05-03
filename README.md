@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Hong!
-- 💻 I'm currently a BCS student at Dalhousie University
-- 🌱 My current focus is on `surrogate model` and `min-max optimization`
-- 📫 Let's connect and collaborate on projects!
+
 
 <!---
 ![Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongh233)
